@@ -1,0 +1,7 @@
+module_name: modules.android_container.demo
+module_uri: https://github.com/google/coursebuilder-android-container-module
+module_version: 1.0.0
+container_version: 1.7.0-05605c2ab471
+description: Demo of using the Course Builder balancer module to execute Android code.
+license: Apache 2.0
+tests: []

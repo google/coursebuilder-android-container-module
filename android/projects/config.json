@@ -1,0 +1,14 @@
+{
+  "Example": {
+    "editorFile": "app/src/main/res/values/strings.xml",
+    "package": "com.google.johncox.example",
+    "testClass": "com.google.johncox.example.ScreenshotTest",
+    "testPackage": "com.google.johncox.example.test"
+  },
+  "Sample": {
+    "editorFile": "app/src/main/java/com/google/johncox/example/MyActivity.java",
+    "package": "com.google.johncox.sample",
+    "testClass": "com.google.johncox.sample.ScreenshotTest",
+    "testPackage": "com.google.johncox.sample.test"
+  }
+}

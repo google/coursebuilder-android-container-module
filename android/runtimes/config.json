@@ -1,0 +1,14 @@
+{
+  "Example": {
+    "avd": "example_avd",
+    "port": 5554,
+    "sdcard": "example.iso",
+    "sdcardSize": 64
+  },
+  "Sample": {
+    "avd": "example_avd",
+    "port": 5554,
+    "sdcard": "example.iso",
+    "sdcardSize": 64
+  }
+}
