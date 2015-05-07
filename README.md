@@ -10,7 +10,9 @@ manages their state, and dispatches them to a worker pool; and a worker pool,
 which receives requests from the balancer, builds user code, executes it in a
 virtual machine, and relays results or errors back to the balancer. The balancer
 is part of [Course Builder]; this module contains a client and a worker
-implementation.
+implementation. The sample implementation's output looks like
+
+![sample UI](images/editor.png)
 
 The source has two main components. First, the `android/` subdirectory is a
 bundle of code for creating worker machines that build and run user code in real
